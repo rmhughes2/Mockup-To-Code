@@ -1,0 +1,16 @@
+This note is for Zach's eyes only lol:
+
+I have been having a lot of trouble trying to translate my Mockup into code. Its been kind of a mess, and I'm feeling like 
+somewhere along the line I missed something important. I've been researching this project apart and trying various methods of implication, and the more things I throw in the mix 
+the more I think I've over complicated things at some points. 
+I also the mockup I made might be maybe just outside of my skillset of comprehension right now and I've been really struggling to make ANYTHING 
+look how I want it to, and how it does in FIGMA. 
+
+I broke down the html fully, and then section by section have been revising and adding styling. This current editions style sheet i think was written down through the 
+first three/four sections of html. I honestly have a lot of questions, but ive been more anxious these last few days and it makes it harder
+to talk in front of everyone. Despite these being normal struggles and knowing I have nothing to feel bad about, it still is really hard for me to talk much
+in front of people as of late. Im going to continue working on this until I get it, but was wondering if we could find some time to go over things together as well and
+maybe help me fill in my knowledge gaps, or re calibrate my direction of action with this project.
+
+
+-Rachel 
